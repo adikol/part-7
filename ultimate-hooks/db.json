@@ -1,0 +1,41 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "afaf",
+      "id": 3
+    },
+    {
+      "content": "hello",
+      "id": 4
+    },
+    {
+      "content": "hi",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "me",
+      "number": "mynumber",
+      "id": 2
+    },
+    {
+      "name": "my mom",
+      "number": "moms number",
+      "id": 3
+    }
+  ]
+}
